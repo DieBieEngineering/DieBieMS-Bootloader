@@ -1,0 +1,21 @@
+Thumbs.db
+History
+*.IntLib
+*.SchDocPreview
+*.PcbDocPreview
+*.tmp
+*.TMP
+*.zip
+*.rar
+*.o
+*.d
+*.crf
+*Preview
+*.Annotation
+*.LOG
+*viewstate
+*.htm
+asccprj.scc
+*.PrjPCBStructure
+*.wmf
+Project\ Outputs*
